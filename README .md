@@ -112,8 +112,7 @@ bisiklet_kulubu/
 | PDO | Güvenli veritabanı bağlantısı |
 
 ---
-
 ## 👤 Geliştirici
-
+<!-- update -->
 Bu proje bir PHP & MySQL dersi ödevi kapsamında geliştirilmiştir.
 
