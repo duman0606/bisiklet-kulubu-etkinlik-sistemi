@@ -1,3 +1,4 @@
+
 # 🚴 Bisiklet Kulübü — Etkinlik Takip Sistemi
 
 PHP ve MySQL ile geliştirilmiş, kullanıcıların bisiklet etkinliklerini oluşturup yönetebileceği tam özellikli bir web uygulaması.
@@ -115,3 +116,4 @@ bisiklet_kulubu/
 ## 👤 Geliştirici
 
 Bu proje bir PHP & MySQL dersi ödevi kapsamında geliştirilmiştir.
+
